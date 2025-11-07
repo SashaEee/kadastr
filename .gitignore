@@ -25,11 +25,6 @@ tmp/
 temp/
 *.tmp
 
-# Библиотеки и зависимости (должны устанавливаться отдельно)
-rosreestr2coord/
-pullenti/
-pullenti_address/
-
 # IDE и редакторы
 .vscode/
 .idea/
