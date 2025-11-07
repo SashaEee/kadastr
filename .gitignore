@@ -1,0 +1,59 @@
+# Файлы данных (Excel, CSV)
+*.xlsx
+*.xls
+*.csv
+
+# Логи и отладочная информация
+*.log
+debug.log
+
+# Виртуальное окружение Python
+venv/
+env/
+ENV/
+.venv/
+
+# Кэш и скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Временные файлы
+tmp/
+temp/
+*.tmp
+
+# Библиотеки и зависимости (должны устанавливаться отдельно)
+rosreestr2coord/
+pullenti/
+pullenti_address/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# macOS системные файлы
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows системные файлы
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Результаты тестов
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Дистрибутивы Python
+dist/
+build/
+*.egg-info/
